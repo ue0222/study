@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    background-color: #ffff99;
+    padding: 18px;
+    transform: rotate(10deg);
+}
+
+.tittle{
+    font-size: 44px;
+    margin-bottom: 20px;
+   font-family:"nanum pen scrite" , cursive;
+}
+
+p{
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family:"nanum pen scrite" , cursive;
+}
+

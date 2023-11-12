@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+}
+
+.list {
+  list-style-type: none;
+  color: yellow;
+}
+
+.title {
+  color: red;
+}
+
+.add-button {
+  color: black;
+  background-color: aqua;
+  border-radius: 20px;
+}
+
+body {
+  background-color: black;
+}
+
+.write {
+  background-color: blanchedalmond;
+  border-radius: 20px;
+}
